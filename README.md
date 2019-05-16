@@ -1,4 +1,4 @@
-# M5Stack의 MPU9250을 사용한 Processsing example
+# M5Stack의 MPU9250을 사용한 Processsing 예제
 M5Stack의 MPU9250 기본 예제인  MPU9250BasicAHRS.ino 파일을 수정하여 Processing과 연동이 되게 한다. 즉 M5Stack의 시리얼 출력값(yaw, pitch, roll)을 Processing에서 받아서 이미지를 회전시킴.
 
 <img src="./MPU9250_Processing.png">
